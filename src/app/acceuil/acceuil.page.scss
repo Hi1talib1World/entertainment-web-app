@@ -6,6 +6,13 @@
           box-shadow: 0px 17px 20px -6px rgba(36, 52, 70, 0.36);
         }
       }
+      
+      background: linear-gradient(#f8f8f8, #fff);
+      box-shadow: 0 8px 16px -8px rgba(0,0,0,0.4);
+      border-radius: 6px;
+      overflow: hidden;
+      position: relative;
+      margin: 1.5rem; 
 }
 
 .github-btn {
@@ -45,17 +52,7 @@ html, body {
   -webkit-transform: translate(-50%, -50%);
 }
 
-.card {
-  width: 450px;
-  height: 250px;
-  background-color: #fff;
-  background: linear-gradient(#f8f8f8, #fff);
-  box-shadow: 0 8px 16px -8px rgba(0,0,0,0.4);
-  border-radius: 6px;
-  overflow: hidden;
-  position: relative;
-  margin: 1.5rem;
-}
+
 
 .card h1 {
   text-align: center;
