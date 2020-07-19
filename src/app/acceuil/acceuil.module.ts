@@ -13,6 +13,8 @@ import { AcceuilPage } from './acceuil.page';
     CommonModule,
     FormsModule,
     IonicModule,
+    
+
     AcceuilPageRoutingModule
   ],
   declarations: [AcceuilPage]
