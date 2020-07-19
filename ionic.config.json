@@ -1,5 +1,7 @@
 {
   "name": "entertainment",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
