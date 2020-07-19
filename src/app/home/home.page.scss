@@ -7,10 +7,14 @@
   top: 50%;
   transform: translateY(-50%);
 }
+ion-content{
 
+  --ion-background-color:#111D12;
+}
 #container strong {
   font-size: 20px;
   line-height: 26px;
+  background: #8c8c8c;
 }
 
 #container p {
